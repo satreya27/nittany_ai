@@ -1,1 +1,1 @@
-# nittany_ai
+# Project 1: Flower Classification
